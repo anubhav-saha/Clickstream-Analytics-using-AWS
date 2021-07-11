@@ -3,5 +3,5 @@ In this project, we are demonstrating clickstream data analysis using AWS by sim
 
 # Click the link below to watch the presentation
 
-https://youtu.be/Z6Vj-Gp0IqY
+[![Watch the video](https://imgur.com/a/uKJe23m)](https://youtu.be/Z6Vj-Gp0IqY)
 
